@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fathan-nasrullah/static/css/main.3b32e32d.chunk.css",
+    "main.js": "/fathan-nasrullah/static/js/main.146962d1.chunk.js",
+    "main.js.map": "/fathan-nasrullah/static/js/main.146962d1.chunk.js.map",
+    "runtime-main.js": "/fathan-nasrullah/static/js/runtime-main.ec1bd216.js",
+    "runtime-main.js.map": "/fathan-nasrullah/static/js/runtime-main.ec1bd216.js.map",
+    "static/js/2.447e8f9a.chunk.js": "/fathan-nasrullah/static/js/2.447e8f9a.chunk.js",
+    "static/js/2.447e8f9a.chunk.js.map": "/fathan-nasrullah/static/js/2.447e8f9a.chunk.js.map",
+    "index.html": "/fathan-nasrullah/index.html",
+    "static/css/main.3b32e32d.chunk.css.map": "/fathan-nasrullah/static/css/main.3b32e32d.chunk.css.map",
+    "static/js/2.447e8f9a.chunk.js.LICENSE.txt": "/fathan-nasrullah/static/js/2.447e8f9a.chunk.js.LICENSE.txt",
+    "static/media/fathan-logo.de695c32.png": "/fathan-nasrullah/static/media/fathan-logo.de695c32.png",
+    "static/media/kalkulator.354791e8.png": "/fathan-nasrullah/static/media/kalkulator.354791e8.png",
+    "static/media/kuy-masak.8f4d58ae.png": "/fathan-nasrullah/static/media/kuy-masak.8f4d58ae.png",
+    "static/media/pia-cianni.10db557e.png": "/fathan-nasrullah/static/media/pia-cianni.10db557e.png",
+    "static/media/random-quote-machine.1420c977.png": "/fathan-nasrullah/static/media/random-quote-machine.1420c977.png",
+    "static/media/tic-tac-toe.e69f3e61.png": "/fathan-nasrullah/static/media/tic-tac-toe.e69f3e61.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec1bd216.js",
+    "static/js/2.447e8f9a.chunk.js",
+    "static/css/main.3b32e32d.chunk.css",
+    "static/js/main.146962d1.chunk.js"
+  ]
+}
