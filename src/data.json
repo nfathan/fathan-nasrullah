@@ -4,12 +4,12 @@
       "firstname": "Fathan",
       "lastname": "Nasrullah",
       "profession": "Junior Front End Developer",
-      "overview": "Have worked for 3 months as Junior Fullstack Developer at mavis.co.id. Beginner Web Front End Certification from Dicoding.com. Then decided to focus on Frontend Developer. Always available to talk about new opportunities."
+      "overview": "Have worked for 3 months as Junior Web Developer at mavis.co.id. Beginner Frontend Developer Certification from Dicoding.com. Then decided to focus on Frontend Developer. Always available to talk about new opportunities."
     },
   "projects": [
     {
       "imageUrl": "",
-      "title": "Random Quote Machine",
+      "title": "Random Quote",
       "link": "https://nfathan.github.io/random-quote-machine/"
     },
     {
