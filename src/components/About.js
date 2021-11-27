@@ -1,9 +1,9 @@
 import { useState } from "react"
 import data from "../data.json"
-// import { CgArrowLongRight } from "react-icons/cg" 
+// import $ from "jquery"
 import { CgChevronDown } from "react-icons/cg"
 import { 
-  TiArrowRightOutline, 
+  // TiArrowRightOutline, 
   TiMail, 
   TiSocialLinkedin, 
   TiSocialInstagram, 
@@ -16,6 +16,8 @@ import LinkProjects from "./LinkProjects";
 function About() {
   const [abouts, setAbouts] = useState(data)
   const [showDetails, setShowDetails] = useState(false)
+
+
 
   return (
     <div className="container">
@@ -33,7 +35,6 @@ function About() {
                   }
                 </button>
             </div>
-            
           </div>     
         </div>
         {showDetails && 
