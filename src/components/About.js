@@ -42,13 +42,10 @@ function About() {
             <section className="About-overview-more">
               <h1>Hi, I'm Junior Front End Developer</h1>
               <p>{abouts.about.overview}</p>
+              <button onClick={() => {setShowDetails(!showDetails)}}>show less</button>
             </section>
-
-            <button onClick={() => {setShowDetails(!showDetails)}}>show less</button>
           </div>
         }
-          
-          
       </section>
       <Contact 
         email={TiMail}
