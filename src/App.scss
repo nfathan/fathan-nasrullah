@@ -212,13 +212,13 @@
   }
 }
 @media(max-width: 1000px) {
-  // .About {
-  //   margin-top: 60px;
-  // }
+  .About {
+    min-height: 62vh;
+  }
 }
 @media(max-width: 670px) {
   .About {
-    min-height: 50vh;
+    min-height: 62vh;
     margin: 50px 0 0;
 
     .About-overview {      
@@ -240,7 +240,7 @@
         }
         
         p {
-          font-size: 22px;
+          font-size: 20px;
         }
       }
     }
@@ -248,9 +248,9 @@
 }
 
 .Contact {
-  min-height: 135px;
+  min-height: 50px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   // margin: 50px;
 
@@ -260,7 +260,7 @@
   
   svg {
     font-size: 25px;
-    // margin: 0 10px;
+    margin: 0 20px;
   }
 }
 @media(max-width: 1000px) {
@@ -268,27 +268,28 @@
   //   margin-top: 50px;
   // }
 }
-@media(max-width: 670px) {
-  .Contact {
-    min-height: 190px;
-    justify-content: center;
+// @media(max-width: 670px) {
+//   .Contact {
+//     min-height: 140px;
+//     justify-content: center;
 
-    svg {
-      margin: 0 20px;
-    }
-  }
-}
+//     svg {
+//       margin: 0 20px;
+//     }
+//   }
+// }
 
 .LinkProjects {
   text-align: center;
-  position: fixed;
-  bottom: 30px;
-  left: 50%;
+  margin-bottom: 30px;
+  // position: fixed;
+  // bottom: 30px;
+  // left: 50%;
   
   a {
     text-decoration: none;
-    position: relative;
-    left: -50%;
+    // position: relative;
+    // left: -50%;
     // color: #fff;
 
     p {
@@ -305,7 +306,7 @@
 }
 @media(max-width: 670px) {
   .LinkProjects {
-    bottom: 10px;
+    margin-bottom: 15px;
   }
 }
 
