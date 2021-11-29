@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/fathan-nasrullah/static/css/main.a4696e07.chunk.css",
-    "main.js": "/fathan-nasrullah/static/js/main.bc5fd3ad.chunk.js",
-    "main.js.map": "/fathan-nasrullah/static/js/main.bc5fd3ad.chunk.js.map",
+    "main.js": "/fathan-nasrullah/static/js/main.a7dc6748.chunk.js",
+    "main.js.map": "/fathan-nasrullah/static/js/main.a7dc6748.chunk.js.map",
     "runtime-main.js": "/fathan-nasrullah/static/js/runtime-main.ec1bd216.js",
     "runtime-main.js.map": "/fathan-nasrullah/static/js/runtime-main.ec1bd216.js.map",
-    "static/js/2.9b5b691f.chunk.js": "/fathan-nasrullah/static/js/2.9b5b691f.chunk.js",
-    "static/js/2.9b5b691f.chunk.js.map": "/fathan-nasrullah/static/js/2.9b5b691f.chunk.js.map",
+    "static/js/2.0702aa47.chunk.js": "/fathan-nasrullah/static/js/2.0702aa47.chunk.js",
+    "static/js/2.0702aa47.chunk.js.map": "/fathan-nasrullah/static/js/2.0702aa47.chunk.js.map",
     "index.html": "/fathan-nasrullah/index.html",
     "static/css/main.a4696e07.chunk.css.map": "/fathan-nasrullah/static/css/main.a4696e07.chunk.css.map",
-    "static/js/2.9b5b691f.chunk.js.LICENSE.txt": "/fathan-nasrullah/static/js/2.9b5b691f.chunk.js.LICENSE.txt",
+    "static/js/2.0702aa47.chunk.js.LICENSE.txt": "/fathan-nasrullah/static/js/2.0702aa47.chunk.js.LICENSE.txt",
+    "static/media/bookshelf.9c0ca9bc.png": "/fathan-nasrullah/static/media/bookshelf.9c0ca9bc.png",
     "static/media/fathan-logo.de695c32.png": "/fathan-nasrullah/static/media/fathan-logo.de695c32.png",
     "static/media/kalkulator.354791e8.png": "/fathan-nasrullah/static/media/kalkulator.354791e8.png",
     "static/media/kuy-masak.8f4d58ae.png": "/fathan-nasrullah/static/media/kuy-masak.8f4d58ae.png",
@@ -19,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ec1bd216.js",
-    "static/js/2.9b5b691f.chunk.js",
+    "static/js/2.0702aa47.chunk.js",
     "static/css/main.a4696e07.chunk.css",
-    "static/js/main.bc5fd3ad.chunk.js"
+    "static/js/main.a7dc6748.chunk.js"
   ]
 }
