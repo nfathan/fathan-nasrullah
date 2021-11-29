@@ -1,5 +1,9 @@
 // import logo from './logo.svg';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { 
+  // BrowserRouter as Router,
+  HashRouter as Router, 
+  Route, 
+  Switch } from 'react-router-dom';
 import '../App.scss';
 import About from './About';
 import Projects from './Projects';
@@ -9,8 +13,8 @@ function App() {
     <Router>
       <div className="App">
         <Switch>
-          <Route path="/products" component={Projects} exact />
-          <Route path="/" component={About} />
+          <Route path="/products" component={Projects} />
+          <Route path="/" component={About} exact />
         </Switch>
         {/* <img src={logo} className="App-logo" alt="logo" />
         <p>
