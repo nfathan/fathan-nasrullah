@@ -3,6 +3,7 @@ import LinkAbout from "./LinkAbout"
 import ProjectItem from "./ProjectItem"
 
 import { CgChevronUp } from "react-icons/cg"
+import bookshelf  from "../images/bookshelf.png"
 import quotes  from "../images/random-quote-machine.png"
 import piaCianni from "../images/pia-cianni.png"
 import kuyMasak from "../images/kuy-masak.png"
@@ -12,8 +13,13 @@ import tictactoe from "../images/tic-tac-toe.png"
 function Projects() {
   const [projects, setProjects] = useState([
     {
+      imageUrl: bookshelf,
+      title: "Bookshelf",
+      link: "https://nfathan.github.io/bookshelf/"
+    },
+    {
       imageUrl: quotes,
-      title: "Random Quote Machine",
+      title: "Random Quote",
       link: "https://nfathan.github.io/random-quote-machine/"
     },
     {
